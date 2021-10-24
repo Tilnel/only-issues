@@ -1,7 +1,7 @@
 # only-issues
 Collect C-Programming-Language issues about programming assignments
 
-Click 'Issues' above and start with your question.
+Click 'Issues' above and start with your question. Both English and Chinese are acceptable.
 
 Format:
 
