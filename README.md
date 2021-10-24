@@ -16,7 +16,7 @@ Compiler Output(Optional)
 
 Online Judging Verdict: WrongAnswer / CompileError / RuntimeError
 
-Online Judging Submit No.
+Online Judging Submission No.
 
 Online Judging Messages(Optional)
 
